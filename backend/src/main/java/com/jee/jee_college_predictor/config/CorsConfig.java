@@ -22,7 +22,7 @@ public class CorsConfig {
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/**")
                         .allowedOrigins(
-                            "https://jee-2403.vercel.app",
+                            "https://jee-2403-z6co.vercel.app",
                             "http://localhost:5173",
                             "http://localhost:5174"
                         )
