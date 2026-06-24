@@ -8,11 +8,11 @@ A full-stack web application that helps **JEE aspirants discover colleges based 
 
 ### Frontend
 
-🔗 (https://jee-2403-z6co.vercel.app)[https://jee-2403-z6co.vercel.app]
+🔗 [https://jee-2403-z6co.vercel.app](https://jee-2403-z6co.vercel.app)
 
 ### Backend API
 
-🔗 https://jee-2403-production.up.railway.app
+🔗 [https://jee-2403-production.up.railway.app](https://jee-2403-production.up.railway.app)
 
 ---
 
